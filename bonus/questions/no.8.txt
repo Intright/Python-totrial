@@ -1,0 +1,5 @@
+8. What will this code output if the user enters 5?
+
+
+x = int(input("Enter a number: "))
+print(x ** 2)

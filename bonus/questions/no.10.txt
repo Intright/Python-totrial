@@ -1,0 +1,7 @@
+10. You want to create a function that returns the square of a number. Which is the correct version?
+A)
+def square(x):
+    print(x * x)
+B)
+def square(x):
+    return x * x

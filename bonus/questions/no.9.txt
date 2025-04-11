@@ -1,0 +1,7 @@
+9. What does this while loop do?
+
+
+count = 1
+while count <= 3:
+    print("Counting:", count)
+    count = count + 1

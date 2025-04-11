@@ -1,0 +1,7 @@
+5. What will the following code print?
+
+age = 20
+if age > 18:
+    print("Adult")
+else:
+    print("Minor")
